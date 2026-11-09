@@ -5,7 +5,7 @@ Colombia, 2026-2) · Miguel Camargo y Camilo Hernández · Prof. Wilmer Pineda.
 
 Estima, al terminar el primer semestre, la probabilidad de que un estudiante de pregrado ya no
 esté matriculado al cerrar su primer año, la clasifica en un nivel de riesgo con una acción
-sugerida y explica la predicción con SHAP. Admite un estudiante o un archivo CSV/Excel con varios.
+sugerida y explica la predicción con SHAP. Abre con un panel del grupo (40 estudiantes ficticios de ejemplo, o un archivo CSV/Excel propio) y la ficha del estudiante elegido; también evalúa a un estudiante con un formulario.
 
 | | |
 |---|---|
